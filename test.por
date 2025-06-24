@@ -1,6 +1,6 @@
 progama{
 funcoa inicio(){
-   real num1,num2,soma,mult
+   real num1,num2,soma,mult,div
    escreva("informe o 1º número: ")
    leia(num1)
    

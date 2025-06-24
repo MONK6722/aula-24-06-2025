@@ -1,0 +1,5 @@
+progama{
+funcoa inicio(){
+
+ }
+}

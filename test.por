@@ -10,6 +10,9 @@ funcoa inicio(){
    escreva("soma: ",soma)
    mult = num1*num2
    escreva("multiplicação: ",mult)
+   
+   div = num1/ num2
+   escreva("divisão : ",div)
 
  }
 }
